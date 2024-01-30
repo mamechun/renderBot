@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "linebot": "^1.6.1"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }
